@@ -1,0 +1,18 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+header.logo{
+	float: left;
+}
+nav{
+	float: right;
+}
+nav ul li{
+	display: inline-block;
+	text-transform: uppercase;
+
+}
+nav ul li a{
+	text-decoration: none;
+}

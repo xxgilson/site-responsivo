@@ -1,0 +1,416 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"argin",
+				"margin-left"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"Mar",
+				"margin-left"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"on",
+				"onmouseover	Attr"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"mysql",
+				"mysql_query"
+			],
+			[
+				"con",
+				"conexao"
+			],
+			[
+				"co",
+				"conexao"
+			],
+			[
+				"box",
+				"box	CSS - box-sizing: border-box;"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"list-style-",
+				"list-style-type"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"escape",
+				"mysqli_escape_string"
+			],
+			[
+				"fore",
+				"foreach	foreach …"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"sql",
+				"sql_query"
+			],
+			[
+				"fetc",
+				"db2_fetch_assoc"
+			],
+			[
+				"sql_",
+				"sql_query"
+			],
+			[
+				"session",
+				"session_start"
+			],
+			[
+				"iss",
+				"isset"
+			],
+			[
+				"P",
+				"_POST"
+			],
+			[
+				"str",
+				"strlen"
+			],
+			[
+				"conne",
+				"connect_errno"
+			],
+			[
+				"hea",
+				"header	<header>"
+			],
+			[
+				"mysq",
+				"mysql_query"
+			],
+			[
+				"tri",
+				"trigger_error"
+			],
+			[
+				"ms",
+				"msql_query"
+			],
+			[
+				"my",
+				"mysql_select_db"
+			],
+			[
+				"msql",
+				"msql_error"
+			],
+			[
+				"cha",
+				"charset"
+			],
+			[
+				"col",
+				"colspan	Attr"
+			],
+			[
+				"cell",
+				"cellpadding	Attr"
+			],
+			[
+				"met",
+				"method	Attr"
+			],
+			[
+				"newt",
+				"newt_checkbox"
+			],
+			[
+				"strp",
+				"strpos"
+			],
+			[
+				"va",
+				"value	Attr"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"echo",
+				"echo"
+			],
+			[
+				"b",
+				"br	<br>"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 258.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/aulas/Web Design/Playshop/index1.html",
+		"/E/aulas/Web Design/Playshop/css/index1.css",
+		"/E/aulas/Web Design/Playshop/index.html",
+		"/E/aulas/Web Design/Playshop/css/index.css",
+		"/F/aulas/Web Design/Playshop/css/index.css",
+		"/F/aulas/Web Design/Playshop/index.html",
+		"/E/Projeto PlayShop/index.html",
+		"/C/Users/Micro12/Desktop/Projeto PlayShop/index.html",
+		"/F/jquery.js",
+		"/C/xampp/htdocs/Gilson/JS/exercise4.html",
+		"/C/xampp/htdocs/Gilson/JS/exercise3.html",
+		"/C/xampp/htdocs/Gilson/JS/exercise5.html",
+		"/C/xampp/htdocs/Gilson/index.html",
+		"/C/xampp/htdocs/Gilson/JS/exercise2.html",
+		"/C/xampp/htdocs/Gilson/JS/exercise1.html",
+		"/C/xampp/htdocs/Gilson/processa.php",
+		"/C/xampp/htdocs/Gilson/conexao.php",
+		"/C/xampp/htdocs/Gilson/css/style.css",
+		"/C/xampp/htdocs/Gilson/index.php",
+		"/C/xampp/htdocs/Gilson/JS/exercise1.js",
+		"/C/xampp/htdocs/Gilson/insert.php",
+		"/C/xampp/htdocs/Gilson/form.php",
+		"/C/xampp/htdocs/Gilson/login.php",
+		"/C/xampp/htdocs/Gilson/teste.html",
+		"/C/xampp/htdocs/Gilson/exe.php",
+		"/E/Design/Web Design/css/style.css",
+		"/E/Design/Web Design/Site/css/style.css",
+		"/E/Design/Web Design/Site/index.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
